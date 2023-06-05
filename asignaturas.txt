@@ -1,2 +1,5 @@
 1.- Entornos
 2.- Ingles
+3.- Quimica
+4.- Lenguaje
+5.- Programacion
